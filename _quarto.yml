@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  navbar:
+    title: false
+    background: light
+    search: false
+    right:
+      - href: index.html
+        text: Home
+      - href: files/Camille_Wixon_CV.pdf
+        text: CV
+        target: _blank
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    back-to-top-navigation: true
+    anchor-sections: false

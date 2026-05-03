@@ -1,0 +1,82 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-8}
+
+# Camille Wixon
+
+PhD Candidate in Economics  
+University of Virginia
+
+Health Economics · Industrial Organization · Public Economics
+
+[caw2va@virginia.edu](mailto:caw2va@virginia.edu) · [CV](files/Camille_Wixon_CV.pdf){target="_blank"}
+
+I am a PhD candidate in Economics at the University of Virginia. My research is in health economics and industrial organization, with a focus on reproductive healthcare markets.
+
+I am on the academic job market for 2025–2026.
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+![](profile.jpg)
+
+:::
+
+:::
+
+## Job Market Paper
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+
+**[Placeholder Title for Your JMP](files/wixon_jmp.pdf)**
+
+*Abstract goes here. This is placeholder text so we can see how the layout works. When you have a real abstract, this is where it goes — probably 4–6 sentences explaining the question, the data, the method, and the headline finding. The text wraps naturally next to the figure.*
+
+[PDF](files/wixon_jmp.pdf) · [Slides](#)
+
+:::
+
+::: {.g-col-12 .g-col-md-5}
+
+![](profile.jpg)
+
+:::
+
+:::
+
+## Working Papers
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+
+**[Placeholder Title for IUD Duration Paper](#)**
+
+*Another placeholder abstract. Eventually this will describe your work on strategic competition in IUD markets.*
+
+[PDF](#) · [Slides](#)
+
+:::
+
+::: {.g-col-12 .g-col-md-5}
+
+![](profile.jpg)
+
+:::
+
+:::
+
+## Works in Progress
+
+**Menopause and labor market outcomes**
+
+**Ammunition stockpiling and gun regulation** (with Marcella Cartledge and Yiren Ding)
