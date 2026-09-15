@@ -3,3 +3,5 @@ _site/
 .DS_Store
 *.log
 .Rproj.user
+/.quarto/
+**/*.quarto_ipynb
