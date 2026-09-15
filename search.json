@@ -4,27 +4,27 @@
     "href": "index.html",
     "title": "Camille Wixon",
     "section": "",
-    "text": "PhD Candidate in Economics\nUniversity of Virginia\nHealth Economics · Industrial Organization · Public Economics\ncaw2va@virginia.edu · CV\nI am a PhD candidate in Economics at the University of Virginia. My research is in health economics and industrial organization, with a focus on reproductive healthcare markets.\nI am on the academic job market for 2025–2026."
+    "text": "PhD Candidate in Economics\nUniversity of Virginia\nHealth Economics · Labor Economics · Industrial Organization\ncaw2va@virginia.edu · CV\nI am a PhD candidate in Economics at the University of Virginia. My research is in health economics with a focus on contraceptive markets.\nI am on the academic job market for 2026–2027."
   },
   {
     "objectID": "index.html#job-market-paper",
     "href": "index.html#job-market-paper",
     "title": "Camille Wixon",
     "section": "Job Market Paper",
-    "text": "Job Market Paper\n\n\nPlaceholder Title for Your JMP\nAbstract goes here. This is placeholder text so we can see how the layout works. When you have a real abstract, this is where it goes — probably 4–6 sentences explaining the question, the data, the method, and the headline finding. The text wraps naturally next to the figure.\nPDF · Slides"
+    "text": "Job Market Paper\n\n\nThe Price of Permanence: A Study of Household Contraceptive Choice including Sterilization\nLast updated: November 2025\nIn 2015–2017, 18.6% of women aged 15–49 relied on female sterilization for contraception, while 4.0% of men aged 18–44 had undergone vasectomies (NSFG). Despite its prevalence, sterilization has received little attention in the economics literature. The Affordable Care Act’s contraceptive mandate requires coverage of female sterilization but imposes no equivalent requirement for vasectomies, leaving men facing substantial out-of-pocket costs. Motivated by this policy asymmetry, this paper estimates the effect of price on male sterilization uptake using a nested logit model and MarketScan claims data on 30 million households from 2015–2017. Counterfactual simulations reveal that mandated vasectomy coverage would increase annual uptake by about 289%. These findings carry fiscal and health implications: relative to female sterilization, vasectomies are less costly, less invasive, and have lower rates of unintended pregnancy, suggesting that expanding the mandate could reduce both the cost and medical burden of permanent contraception.\n\n\n\n\nContraceptive method use among women aged 20–45, 2015–2019 (NSFG)."
   },
   {
     "objectID": "index.html#working-papers",
     "href": "index.html#working-papers",
     "title": "Camille Wixon",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\nPlaceholder Title for IUD Duration Paper\nAnother placeholder abstract. Eventually this will describe your work on strategic competition in IUD markets.\nPDF · Slides"
+    "text": "Working Papers\n\n\nRefills and Renewals: Hassle Costs in the Contraceptive Market\nLast updated: November 2025\nAfter two decades, Mirena, the most widely used hormonal IUD in the United States, revised the approved duration of its device for the first time following the entry of a competitor, extending the period of protection a single insertion provides without any change to the device itself. Over the same years, 21 states began allowing pharmacists to prescribe self-administered contraception without a physician visit. Both changes reduced the hassle costs associated with obtaining and maintaining contraception. I use Medicaid State Drug and Utilization data from 2015–2022 to estimate a nested logit model of contraceptive demand, exploiting the staggered adoption of state pharmacy access laws and changes in the labeled duration of intrauterine devices. I find that pharmacy access increases the share of self-administered contraception by approximately 3.5 percentage points while an additional year of labeled protection increases a hormonal IUD’s share within the hormonal IUD nest by 20–40 percentage points. I then examine how firm choices shape these characteristics and find a pattern suggestive of strategic extension, where competing products extend their labeled duration toward their clinically supported ceiling, while products without close rivals do not. Finally, in a counterfactual where the competitor never entered, I find that Mirena would not have extended its label beyond six years, resulting in approximately 128,000 fewer women per year in a long-acting method.\n\n\n\n\nFDA-approved duration of Mirena and Liletta, 2013–2022."
   },
   {
     "objectID": "index.html#works-in-progress",
     "href": "index.html#works-in-progress",
     "title": "Camille Wixon",
     "section": "Works in Progress",
-    "text": "Works in Progress\nMenopause and labor market outcomes\nAmmunition stockpiling and gun regulation (with Marcella Cartledge and Yiren Ding)"
+    "text": "Works in Progress\nAmmunition stockpiling and gun regulation (with Marcella Cartledge and Yiren Ding)"
   }
 ]
